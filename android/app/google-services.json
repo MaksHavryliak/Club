@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662924439138",
+    "project_id": "social-media-test-app-bd16a",
+    "storage_bucket": "social-media-test-app-bd16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662924439138:android:439c4292031d3e8c422b3b",
+        "android_client_info": {
+          "package_name": "com.makshavryliak.club"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJi76DVOWXD81COIdJlSAwzMnACy7T3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
